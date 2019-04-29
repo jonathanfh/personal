@@ -27,6 +27,10 @@ body {
     width: 100%;
     }
 
+.t1 { 
+    margin:20px; 
+}
+
 .card-white h2 {
     text-align: center;
 }
