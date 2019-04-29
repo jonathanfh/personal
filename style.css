@@ -1,3 +1,5 @@
+/* MAIN */
+
 body {
     font-family: arboria,sans-serif;
 	font-weight: 300;
@@ -24,29 +26,75 @@ a {
 }
 
 a:hover {
-    color: rgb(233, 237, 30);
-    text-decoration: underline;
-    text-decoration-color: rgb(233, 237, 30);
-}
-
-.card-white {
-    background-color: rgb(233, 237, 240);
-    border: 3px solid rgb(3, 46, 89);
-    text-align: center;
-    }
-
-.t1 { 
-    margin:10px 10px 10px 10px ; 
-}
-
-.card-white h2 {
-    font-size: 40px;
-    text-align: center;
+    color: rgb(47, 139, 62);
+    text-decoration: underline dotted;
+    text-decoration-color: rgb(47, 139, 62);
 }
 
 .footer {
     text-align: center;
     margin: auto;
-    padding: 20px 20px; 
+    padding: 20px; 
+    background-color: redrgb(3, 46, 89);
+}
+
+/* DETAILS */
+
+
+body {
+    font-family: arboria,sans-serif;
+	font-weight: 300;
+    font-style: light; 
     background-color: rgb(3, 46, 89);
+}
+
+.banner-details {
+    text-align: center;
+	padding: 60px 0px 20px 0px; 
+    background-color: rgb(3, 46, 89);
+}
+
+.banner-details h1 {
+	font-size: 30px;
+	color: rgb(233, 237, 240);
+}
+
+.description {
+    text-align: justify;
+    padding: 4px;
+    margin: 40px;
+    background-color: rgb(3, 46, 89);
+}
+
+.description h2 {
+	font-size: 20px;
+    text-decoration: underline;
+    padding: 10px 0px;
+	color: rgb(233, 237, 240);
+}
+
+.description h3 {
+    padding: 0px;
+	font-size: 20px;
+	color: rgb(233, 237, 240);
+}
+
+a {
+    color: rgb(233, 237, 240);
+	font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: rgb(233, 237, 240);
+}
+
+a:hover {
+    color: rgb(47, 139, 62);
+    text-decoration: underline dotted;
+    text-decoration-color: rgb(47, 139, 62);
+}
+
+.footer {
+    text-align: center;
+    margin: auto;
+    padding: 20px; 
+    background-color: redrgb(3, 46, 89);
 }
