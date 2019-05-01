@@ -25,7 +25,6 @@ body {
 
 .banner img {
     height: 140px;
-    
 }
 
 a {
@@ -37,7 +36,6 @@ a {
 
 a:hover {
     color: rgb(47, 139, 62);
-    text-decoration: underline dotted;
     text-decoration-color: rgb(47, 139, 62);
 }
 
