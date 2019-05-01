@@ -94,14 +94,13 @@ body {
 .description {
     text-align: justify;
     padding: 4px;
-    margin: 40px;
-    background-color: rgb(3, 46, 89);
+    margin: 0px 10px 10px 10px;
 }
 
 .description h2 {
 	font-size: 20px;
     text-decoration: underline;
-    padding: 10px 0px;
+    padding: 10px 0px 0px 0px;
 	color: rgb(233, 237, 240);
 }
 
@@ -122,6 +121,15 @@ body {
     color: rgb(47, 139, 62);
     text-decoration: underline dotted;
     text-decoration-color: rgb(47, 139, 62);
+}
+
+.description-details {
+    background: none;
+    border: 2px solid rgba(202, 211, 218);
+    margin: 10px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+    border-radius: 4px; 
+    box-shadow: 0 10px 30px rgba(0, 0, 0,.1);
 }
 
 .footer {
