@@ -60,11 +60,35 @@ body {
     text-align: center;
 	padding: 60px 0px 20px 0px; 
     background-color: rgb(3, 46, 89);
+	font-size: 30px;
+	color: rgb(233, 237, 240);
 }
 
 .banner-details h1 {
-	font-size: 30px;
-	color: rgb(233, 237, 240);
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.banner-details h1 a {
+    font-size: 30px;
+}
+
+.banner-details h2 {
+    font-size: 20px;
+    color: rgb(47, 139, 62);
+}
+
+.banner-details h2 a {
+    font-size: 30px;
+    text-decoration: underline dotted;
+}
+
+.banner-details h3 {
+    font-size: 20px;
+}
+
+.banner-details h3 a {
+    font-size: 20px;
 }
 
 .description {
@@ -87,14 +111,14 @@ body {
 	color: rgb(233, 237, 240);
 }
 
-a {
+.description a {
     color: rgb(233, 237, 240);
 	font-size: 30px;
     text-decoration: underline;
     text-decoration-color: rgb(233, 237, 240);
 }
 
-a:hover {
+.description a:hover {
     color: rgb(47, 139, 62);
     text-decoration: underline dotted;
     text-decoration-color: rgb(47, 139, 62);
