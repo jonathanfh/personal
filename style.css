@@ -1,10 +1,10 @@
 /* MAIN */
 
 body {
-    font-family: arboria,sans-serif;
-	font-weight: 300;
-    font-style: light; 
     background-color: rgb(3, 46, 89);
+    font-family: arboria,sans-serif;
+    font-style: light; 
+	font-weight: 300;
 }
 
 .banner {
@@ -16,10 +16,16 @@ body {
 .banner h1 {
 	font-size: 50px;
 	color: rgb(233, 237, 240);
+    line-height: 150%;
 }
 
 .banner h1 a {
 	font-size: 50px;
+}
+
+.banner img {
+    height: 140px;
+    
 }
 
 a {
