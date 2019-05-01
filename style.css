@@ -130,3 +130,7 @@ body {
     padding: 20px; 
     background-color: redrgb(3, 46, 89);
 }
+
+.footer a {
+    padding-right: 24px;
+}
