@@ -35,8 +35,8 @@ a {
 }
 
 a:hover {
-    color: rgb(47, 139, 62);
-    text-decoration-color: rgb(47, 139, 62);
+    color: rgb(202, 211, 218);
+    text-decoration-color: rgb(202, 211, 218);
 }
 
 .footer {
@@ -75,12 +75,12 @@ body {
 
 .banner-details h2 {
     font-size: 20px;
-    color: rgb(47, 139, 62);
+    color: rgb(202, 211, 218);
 }
 
 .banner-details h2 a {
     font-size: 30px;
-    text-decoration: underline dotted;
+    text-decoration: underline;
 }
 
 .banner-details h3 {
@@ -118,9 +118,9 @@ body {
 }
 
 .description a:hover {
-    color: rgb(47, 139, 62);
-    text-decoration: underline dotted;
-    text-decoration-color: rgb(47, 139, 62);
+    color: rgb(202, 211, 218);
+    text-decoration: underline;
+    text-decoration-color: rgb(202, 211, 218);
 }
 
 .description-details {
